@@ -2,6 +2,7 @@
 variable "name" {
   description = "Name of the repository."
   type        = string
+  default = "pact-test-repo"
 }
 
 variable "image_tag_mutability" {
