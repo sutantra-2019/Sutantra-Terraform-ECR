@@ -1,5 +1,5 @@
 // Jenkinsfile
-String credentialsId = 'Sutantra-AWS'
+String credentialsId = 'Sutantra-2020'
 
 try {
   stage('checkout') {
